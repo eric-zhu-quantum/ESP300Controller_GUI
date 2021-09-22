@@ -1,4 +1,4 @@
-%Takes the handle of the initialized ESP300 controller, and monitors 
+%Takes the handle of the initialized ESP300 controller (gpibdevice), and monitors 
 % the position of the particular axis (motor_axis) until it has stopped
 % moving completely, all the while continuously outputting the position of axis to the 
 % MotionWindow (through TextHandle)
