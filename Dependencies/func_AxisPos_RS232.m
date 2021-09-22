@@ -1,4 +1,5 @@
 %get current position of Axis
+%
 %usage:
 % Pos = func_AxisPos_RS232(COMAddress,Axis)
 
