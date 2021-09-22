@@ -1,6 +1,8 @@
+%Create an instance of the MotionWindow figure, and send back the handles
+% for the E-stop button (StopHandle) and text output (TextHandle)
+%
 %usage: [MotionWindowFig, StopHandle, TextHandle] = func_MotionWindow(ActionStr)
-%
-%
+
 function [MotionWindowFig, StopHandle, TextHandle] = func_MotionWindow(ActionStr)
 
     MotionWindowFig = open('MotionWindow.fig');
