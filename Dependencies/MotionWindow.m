@@ -1,3 +1,4 @@
+%this file specifies all the I/O and callbacks for MotionWindow.fig
 function varargout = MotionWindow(varargin)
 % MOTIONWINDOW MATLAB code for MotionWindow.fig
 %      MOTIONWINDOW, by itself, creates a new MOTIONWINDOW or raises the existing
