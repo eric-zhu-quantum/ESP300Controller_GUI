@@ -1,4 +1,4 @@
-%moves the Axis in question to the New position NewPos
+%moves the Axis in question to the new position (NewPos)
 %
 %usage: func_MoveAxis_RS232(ComPort, Axis, NewPos)
 
