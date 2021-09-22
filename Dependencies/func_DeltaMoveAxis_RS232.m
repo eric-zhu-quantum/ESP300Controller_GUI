@@ -1,4 +1,4 @@
-%move the Axis in question by Delta
+%move the Axis in question by Delta 
 %
 %usage: func_DeltaMoveAxis(ComPort, Axis, Delta)
 
