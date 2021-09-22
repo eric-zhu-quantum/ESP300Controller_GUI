@@ -1,5 +1,5 @@
 %homes the particular axis in question 
-%physically, the axis just stops moving once it hits the limit switch
+%physically, the axis just stops moving once it hits the negative limit switch
 %
 %usage: func_HomeAxis_RS232(ComPort, Axis, TextHandle, StopHandle)
 
