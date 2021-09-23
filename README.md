@@ -36,3 +36,6 @@ Wait until the 'WORKING' flag in the Status frame has disappeared before perform
 
 5)  Finally, this Status frame is where the 'Working' indicator text turns on when any of the axes are being moved.  
 If you want to halt the actuator immediately, press the 'Stop!!!' radio button.  This will cause the actuator to do an emergency stop (E-Stop).  
+
+
+
