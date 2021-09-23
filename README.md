@@ -6,7 +6,7 @@ This is the Newport ESP300 controller:
 <img src="https://github.com/eric-zhu-quantum/ESP300Controller_GUI/blob/main/Pics/ESP300.png" alt="ESP300" width="500"/>
 
 
-It can control 3 linear actuators.   We can issues commands to it from a PC/MATLAB through GPIB or RS232 connections.  
+It can control 3 linear actuators ('axes').   We can issues commands to it from a PC/MATLAB through GPIB or RS232 connections.  
 This particular GUI and the supporting scripts use RS232, but can be easily modified for GPIB control.  
 
 This is what the GUI looks like:
